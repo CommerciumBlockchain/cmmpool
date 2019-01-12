@@ -34,7 +34,7 @@
         "maxBlocksPerPayment": 10,
         "daemon": {
             "host": "127.0.0.1",
-            "port": 12019,
+            "port": 12020,
             "user": "username",
             "password": "!password!"
         }
@@ -57,7 +57,7 @@
     "daemons": [
         {
             "host": "127.0.0.1",
-            "port": 12019,
+            "port": 12020,
             "user": "username",
             "password": "!password!"
         }

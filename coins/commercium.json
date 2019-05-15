@@ -6,7 +6,7 @@
     "payFoundersReward": true,
     "sapling": true,
     "percentFoundersReward": 7.5,
-    "maxFoundersRewardBlockHeight": 2106399,
+    "maxFoundersRewardBlockHeight": 529600,
     "foundersRewardAddressChangeInterval": 176534,
     "vFoundersRewardAddress": [
 	    "MZMN4YjaYhnnDgMWLQVC93LuCPFJ51tBwT",

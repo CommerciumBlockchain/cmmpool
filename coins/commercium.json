@@ -7,10 +7,10 @@
     "sapling": true,
     "percentFoundersReward": 7.5,
     "maxFoundersRewardBlockHeight": 2106399,
-    "foundersRewardAddressChangeInterval": 702134,
+    "foundersRewardAddressChangeInterval": 176534,
     "vFoundersRewardAddress": [
-            "MujoWRKHEy3ndn2V5JZrXhQSiy3huZPV8U",
 	    "MZMN4YjaYhnnDgMWLQVC93LuCPFJ51tBwT",
+            "MujoWRKHEy3ndn2V5JZrXhQSiy3huZPV8U",
             "MqdZ2ji6rX2HsBXdt9WpES2RSaE7R6A5zF"
     ],
     "txfee": 0.0004
